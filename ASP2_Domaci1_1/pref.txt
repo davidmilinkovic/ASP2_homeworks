@@ -1,0 +1,11 @@
+12
+a x
+abca x
+aba x
+abczz x
+ad x
+aab x
+abc x
+ad x
+abcae x
+aabcd x
