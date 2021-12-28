@@ -62,7 +62,7 @@ std::vector<Student*> Student::readFromCsv(const std::string& filePath) {
             space = (int)courses.find(' ', space + 1);
         }
         if (courses.length()) s->addCourse(courses.substr(lastSpace + 1));
-        std::cout << *s;
+        // std::cout << *s;
         v.push_back(s);
     }
     return v;

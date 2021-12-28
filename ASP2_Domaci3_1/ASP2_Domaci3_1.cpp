@@ -4,8 +4,11 @@
 #include "SplitSequenceLinearHashing.h"
 
 void printSeparator();
+
 int inputInt();
+
 void enterToContinue();
+
 bool checkTable(HashTable*& table);
 
 void menuCreateTable(HashTable*& pTable);

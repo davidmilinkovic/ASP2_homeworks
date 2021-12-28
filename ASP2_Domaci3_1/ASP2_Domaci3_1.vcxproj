@@ -141,12 +141,16 @@
   <ItemGroup>
     <ClCompile Include="AddressFunction.cpp" />
     <ClCompile Include="ASP2_Domaci3_1.cpp" />
+    <ClCompile Include="Bucket.cpp" />
+    <ClCompile Include="DoubleHashing.cpp" />
     <ClCompile Include="HashTable.cpp" />
     <ClCompile Include="SplitSequenceLinearHashing.cpp" />
     <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddressFunction.h" />
+    <ClInclude Include="Bucket.h" />
+    <ClInclude Include="DoubleHashing.h" />
     <ClInclude Include="HashTable.h" />
     <ClInclude Include="SplitSequenceLinearHashing.h" />
     <ClInclude Include="Student.h" />
